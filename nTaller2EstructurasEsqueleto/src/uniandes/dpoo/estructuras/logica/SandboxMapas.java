@@ -177,7 +177,7 @@ public class SandboxMapas
 
         for (Object obj : objetos) {
             String valor = obj.toString();
-            String claveInve = new StringBuilder(valor).reverse().toString();
+            String claveInve = new StringBuilder(valor).reverse().toString(); //invierto la cadena
             nuevoMapa.put(claveInve, valor);
         }
 
@@ -193,7 +193,7 @@ public class SandboxMapas
     	Map<String, String> nuevoMapa = new HashMap<>();
 
         for (Map.Entry<String, String> entrada : mapaCadenas.entrySet()) {
-            nuevoMapa.put(entrada.getKey().toUpperCase(), entrada.getValue());
+            nuevoMapa.put(entrada.getKey().toUpperCase(), entrada.getValue()); //guardo la llave en mayúsculas
         }
 
         mapaCadenas = nuevoMapa;
