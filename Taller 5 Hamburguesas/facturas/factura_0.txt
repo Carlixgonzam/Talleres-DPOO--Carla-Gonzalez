@@ -1,0 +1,9 @@
+Cliente: Cliente Test
+Dirección: Dirección Test
+----------------
+Producto Test
+            10000
+----------------
+Precio Neto:  10000
+IVA:          1900
+Precio Total: 11900
