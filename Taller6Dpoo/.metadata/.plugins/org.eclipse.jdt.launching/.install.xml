@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dirs>
+    <entry loc="/Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home" stamp="1729030051000"/>
+    <entry loc="/Library/Java/JavaVirtualMachines/amazon-corretto-11.jdk/Contents/Home" stamp="1736790156000"/>
+    <entry loc="/Users/carlagonzalez/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_23.0.1.v20241024-1700" stamp="1733768906408"/>
+    <entry loc="/Users/carlagonzalez/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_23.0.1.v20241024-1700/jre" stamp="1733768906408"/>
+    <entry loc="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home" stamp="1733299787000"/>
+    <entry loc="/Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk/Contents/Home" stamp="1741983495572"/>
+</dirs>
